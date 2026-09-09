@@ -10,6 +10,5 @@ labels:
   - GitHub
 summary: "A text-based 4x game as my personal hobby project."
 ---
-This simple tictactoe game was my project back in ICS 211 in Leeward Community College. Developed with just time and perseverance with no AI help. I finished it with 1000 lines of codes.
-The system has a crude opponent AI system and saves the game as txt.
+A text-based 4x game as my personal hobby project where you can manage a group of fictional characters in multiverse.
 

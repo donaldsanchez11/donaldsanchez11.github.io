@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/gif/urara_headpat.gif
-title: "TicTacToe Java"
-date: 2023
+title: "Donaru Realms"
+date: 2024
 published: true
 labels:
   - GDScript

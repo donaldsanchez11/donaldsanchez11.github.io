@@ -2,7 +2,7 @@
   "basics": {
     "name": "Donald Sanchez",
     "label": "Student",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/234273945?s=400&u=1a7d3abd23f0c7d46f84a3410f8baf97f9c7e1c7&v=4",
     "email": "donaldsanchez.11.1998@gmail.com",
     "phone": "808-206-3856",
     "website": "https://donaldsanchez.github.io",
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",

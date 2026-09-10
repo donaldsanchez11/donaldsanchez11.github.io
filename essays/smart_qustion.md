@@ -39,6 +39,7 @@ For me, the quality of an answer often depends on the quality of the question. A
 
 <img src="../img/e11_smart_q/Math_Lady_meme.jpg">
 
+
 A smart question helps answer the bigger question or solve the bigger problem. You put effort into the question, and you understand what you are asking. A smart question does not need to sound complicated. In fact, it can be very simple. What makes it smart is that it has a purpose. You have already thought about the problem, gathered some information, and figured out what part you do not understand.
 
 For example, instead of asking:
@@ -54,6 +55,7 @@ The second question gives a clear problem to investigate. It narrows down the is
 ## "Not Smart" Questions
 
 <img src="../img/e11_smart_q/patrick.gif">
+
 
 For me, "not smart" questions are questions that are sudden, unexpected, or asked without much thought. They are not necessarily stupid questions. Sometimes you simply do not know enough about the topic yet to know what you should ask. However, a question becomes less useful when you ask someone to solve a problem without first trying to understand it yourself.
 

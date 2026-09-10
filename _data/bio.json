@@ -6,16 +6,17 @@
     "email": "donaldsanchez.11.1998@gmail.com",
     "phone": "808-206-3856",
     "website": "https://donaldsanchez.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science in at the University of Hawaii. I expect to graduate in Spring, 2028.",
+    "summary": "I am studying for a B.A. in Information and Computer Science in at the University of Hawaii. I expect to graduate in Spring, 2029.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "donaldsanchez111998-ui", "url": "https://github.com/donaldsanchez111998-ui" },
+      { "network": "github", "username": "donaldsanchez11", "url": "https://github.com/donaldsanchez11" },
       { "network": "linkedin", "username": "Donald Sanchez", "url": "https://www.linkedin.com/in/donald-sanchez-28517a378/" },
       { "network": "github_personal", "username": "donarusan", "url": "https://github.com/donarusan" }
     ]
   },
   "interests": [
     { "name": "AI" },
+    { "name": "Software Engineering" },
     { "name": "Cyber Security" },
     { "name": "Game Development" },
     { "name": "Digital Art" },

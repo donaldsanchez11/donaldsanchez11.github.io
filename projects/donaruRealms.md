@@ -25,15 +25,26 @@ The game focuses heavily on character and Realm management. Players can assign S
 Some of the gameplay systems include:
 
 **Character Management**: Manage individual Stellars with unique stats, traits, personalities, states, and histories.
+
 **Relationships**: Stellars can develop different relationships and opinions of the player and other characters.
+
 **Stellar Roles**: Assign characters to specialized positions such as Bodyguard, Personal Doctor, Chef, Treasurer, Driver, Pilot, or members of the Realm's government.
+
 **Health and Nutrition**: Characters have health and nutritional needs that the player must manage.
+
 **Events**: Random and scripted events can affect individual Stellars or the entire Realm.
+
 **Awards and Medals**: Give Stellars custom awards or major honors for their accomplishments.
+
 **Inventory and Items**: Manage items and resources that can be used by the player and Stellars.
+
 **Character History**: Important actions and events are recorded as part of a Stellar's personal history.
+
 **Combat**: A battle system is being developed to allow Stellars to fight characters and other threats.
+
 **Realm Management**: Larger management systems are planned for areas such as administration, law, justice, territory, and the Realm's palace.
+
+**and much more will be implemented in the future**
 
 The project is designed as a sandbox, so there is not always one correct way to play. A Realm can become organized and efficient, or it can turn into complete chaos depending on the player's decisions and the Stellars living in it.
 

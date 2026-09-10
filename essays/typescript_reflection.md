@@ -14,7 +14,8 @@ labels:
 
 <img class="img-fluid"
      style="max-width: 600px;"
-     src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg"><br>
+     src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg">
+<br>
 <small>
   Photo by
   <a href="https://unsplash.com/@vladimir_d?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">

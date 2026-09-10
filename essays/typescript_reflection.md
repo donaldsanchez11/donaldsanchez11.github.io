@@ -41,7 +41,6 @@ Okay. I will break down those nested questions.
 
 It does static typing. 
 
-
 ## What is “static typing”?
 
 <img src="../img/e10_typescript_reflection/helicopter.gif">
@@ -57,39 +56,30 @@ Then you hire a helicopter technician to check and he comments: “WAIT! The pro
 JavaScript is willing to run the program and see what happens. TypeScript checks your code before it runs and looks for places where you are using the wrong type of data.
 
 For example, imagine a JavaScript function expects a number:
-
 ```javascript
 function addScore(score) {
   return score + 10;
 }
 ```
-
 Nothing stops me from accidentally doing this:
-
 ```javascript
 addScore("John");
 ```
 JavaScript may happily accept it until the program runs and produces something I did not expect.
 
 With TypeScript, I can specify what kind of data the function accepts:
-
 ```typescript
   function addScore(score: number) {
       return score + 10;
   }
 ```
-
 Now if I try:
-
 ```typescript
 addScore("John");
 ```
-
 TypeScript can warn me before I run the program. I gave the function a string when it expected a number. That is static typing.
 
 The technician is basically saying, “You told me this part is supposed to be a number. Why did you install a string here?”
-
-
 
 ## Does TypeScript make JavaScript more complicated?
 
@@ -109,7 +99,7 @@ However, that extra complexity has a purpose. It can catch mistakes earlier, esp
 
 So TypeScript makes JavaScript slightly more complicated while you're writing it, but it can make the overall program easier to understand, debug, and maintain.
 
-<div class="callout">
+<div class="callout" markdown="2">
 In other words, JavaScript says: “Looks good. Send it.”
 
 TypeScript says: “HOLD UP, WAIT A MINUTE.”

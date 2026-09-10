@@ -85,6 +85,7 @@ You do not need to know the answer before asking the question. If you already kn
 
 A smart question shows that you are not only looking for an answer; You are trying to understand the problem.
 
+
 <blockquote>
   <strong>AI Disclaimer:</strong>
   AI was used for spelling and grammar corrections. The ideas and content are my own.

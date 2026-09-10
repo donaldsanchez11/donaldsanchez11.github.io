@@ -12,7 +12,7 @@ summary: "A TicTacToe Game I developed for ICS 211 in Leeward Community College.
 ---
 This simple TicTacToe game was one of my projects back in ICS 211 at Leeward Community College. I developed it through time, trial and error, and a lot of perseverance, without the help of AI. By the time I finished the project, it had grown to around 1,000 lines of Java code.
 
-The game started as a basic TicTacToe program, but I gradually added more features as I worked on it. One of the main features is a crude opponent AI system that allows the player to play against the computer. While the AI is simple compared to what I could build today, creating it helped me learn how to turn game rules and decision-making into actual program logic.
+The game started as a basic TicTacToe program, but I little by little added more features as I worked on it. One of the main features is a crude opponent AI system that allows the player to play against the computer. While the AI is simple compared to what I could build today, creating it helped me learn how to turn game rules and decision-making into actual program logic.
 
 The project also includes a save system that stores game data in a .txt file. This allowed me to practice reading and writing files in Java and keeping game information between sessions.
 

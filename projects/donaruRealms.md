@@ -9,7 +9,7 @@ labels:
   - GDScript
   - GitHub
   - Game Development
-summary: "A text-based, sandbox, simulation, 4x game as my personal hobby project."
+summary: "A text-based, sandbox, simulation, 4x game as my personal hobby project. *oh the GIF works* "
 ---
 A text-based, sandbox, simulation, 4x game as my personal hobby project where you can manage a group of fictional called Stellars across multiverse.
 

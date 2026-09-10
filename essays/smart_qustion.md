@@ -28,7 +28,7 @@ labels:
       </a>
     </small>
   </figcaption>
-  
+  </figure>
 # There Are No Stupid Questions... But There Are Not-Smart Questions
 
 If your question is a "not smart" question, then you should probably expect a "not smart" answer.

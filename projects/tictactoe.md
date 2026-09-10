@@ -9,7 +9,7 @@ labels:
   - Java
 summary: "A TicTacToe Game I developed for ICS 211 in Leeward Community College."
 ---
-<img class="img-fluid" src="img/tictactoe/tictactoe_banner.png">
+<img class="img-fluid" src="../img/tictactoe/tictactoe_banner.png">
 
 This simple TicTacToe game was one of my projects back in ICS 211 at Leeward Community College. I developed it through time, trial and error, and a lot of perseverance, without the help of AI. By the time I finished the project, it had grown to around 1,000 lines of Java code.
 

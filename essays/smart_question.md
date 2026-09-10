@@ -32,13 +32,13 @@ labels:
 
 If your question is a "not smart" question, then you should probably expect a "not smart" answer.
 
-For me, the quality of an answer often depends on the quality of the question. A good question gives the other person enough information to understand what you are trying to solve. A question with little thought or context can lead to an answer that is just as unclear.
+For me, the quality of an answer often depends on the quality of the question. A good question gives the other person enough information to understand what you are trying to solve. A question with little thought or context can lead to an answer that is just doesn't make sense.
 
 ## Smart Questions
 
 <img src="../img/e11_smart_q/Math_Lady_meme.jpg">
 
-A smart question helps answer the bigger question or solve the bigger problem. You put effort into the question, and you understand what you are asking. A smart question does not need to sound complicated. In fact, it can be very simple. What makes it smart is that it has a purpose. You have already thought about the problem, gathered some information, and figured out what part you do not understand.
+A smart question helps answer the bigger question or solve the bigger problem. You put effort into the question, and you understand what you are asking. A smart question does not need to sound complicated. It can be very simple. What makes it smart is that it has a purpose. You have already thought about the problem, gathered some information, and figured out what part you do not understand.
 
 For example, instead of asking:
 

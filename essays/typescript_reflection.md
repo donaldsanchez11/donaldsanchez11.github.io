@@ -99,6 +99,7 @@ So TypeScript makes JavaScript slightly more complicated while you're writing it
 
 In other words,
 JavaScript says: “Looks good. Send it.”
+
 TypeScript says: “HOLD UP, WAIT A MINUTE.”
 
 ## TypeScript vs. Other Programming Languages
@@ -136,6 +137,15 @@ So, in a very simplified way:
 **TypeScript:** "What TYPE is the variable?"
 
 **C / C# / Java:** "We have been asking that for years."
+
+
+## TypeScript Verdict: Is TypeScript Good or Bad?
+
+**TypeScript is good.**
+
+It may make JavaScript more complicated, and sometimes it may feel like extra work. However, that extra work has a purpose. TypeScript can catch many mistakes before the program even runs. Instead of waiting for a type-related error to appear while the program is running, TypeScript can warn the programmer during development. This can save time, especially when working on larger projects where one small mistake can be difficult to find.
+
+So, is TypeScript perfect? No. It cannot prevent every bug or crash. But I would rather have TypeScript complain about my code now than have JavaScript surprise me later.
 
 
 

@@ -9,6 +9,7 @@ labels:
   - Engineering
   - Lore
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/hmmcat.jpeg"> "HMMMMM"
 
 ## From Curiosity to Software Engineering
 

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "TypeScript, Timed Coding, and a Little Bit of Panic"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-09
 published: true
@@ -12,17 +12,34 @@ labels:
   - JavaSctipy
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg">
+<small>
+  Photo by
+  <a href="https://unsplash.com/@vladimir_d?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+    Volodymyr Dobrovolskyy
+  </a>
+  on
+  <a href="https://unsplash.com/photos/a-cat-sitting-in-front-of-a-computer-monitor-KrYbarbAx5s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+    Unsplash
+  </a>
+</small>
+
+<br>
+
+# TypeScript, Timed Coding, and a Little Bit of Panic
 
 When I hear "web development," I think of the trifecta: HTML, which structures what you see; CSS, which styles it; and JavaScript, which tells it what to do. Then, TypeScript. I had never heard of it before. I just learned in class that it's a superset of JavaScript. So what does it do? It does static typing. One more question: what is static typing? Does it make JavaScript more complicated?
 
 Okay. I will break down those nested questions.
 
-What does it do? 
+## What does it do? 
 
 It does static typing. 
 
-What is “static typing”?
+
+## What is “static typing”?
+
+<img src="../img/e10_typescript_reflection/helicopter.gif">
 
 Let me explain this like I'm explaining it to a first-year ICS student or someone who has never coded before. Imagine you're a helicopter engineer who built a helicopter. It looks like a helicopter; it behaves like a helicopter, so it should be a helicopter, right? 
 
@@ -36,31 +53,33 @@ JavaScript is willing to run the program and see what happens. TypeScript checks
 
 For example, imagine a JavaScript function expects a number:
 
-function addScore(score) {
-    return score + 10;
-}
+  function addScore(score) {
+      return score + 10;
+  }
 
 Nothing stops me from accidentally doing this:
 
-addScore("John");
+  addScore("John");
 
 JavaScript may happily accept it until the program runs and produces something I did not expect.
 
 With TypeScript, I can specify what kind of data the function accepts:
 
-function addScore(score: number) {
-    return score + 10;
-}
+  function addScore(score: number) {
+      return score + 10;
+  }
 
 Now if I try:
 
-addScore("John");
+  addScore("John");
 
 TypeScript can warn me before I run the program. I gave the function a string when it expected a number. That is static typing.
 
 The technician is basically saying, “You told me this part is supposed to be a number. Why did you install a string here?”
 
-Does TypeScript make JavaScript more complicated?
+
+
+## Does TypeScript make JavaScript more complicated?
 
 **yes**
 
@@ -86,9 +105,7 @@ TypeScript says:
 
 “HOLD UP, WAIT A MINUTE.”
 
-
-
-TypeScript vs. Other Programming Languages
+## TypeScript vs. Other Programming Languages
 
 TypeScript's static typing is not a completely new idea. Other programming languages have been doing something similar for a long time.
 
@@ -96,12 +113,12 @@ Java, C, and C# are statically typed languages. When you create a variable, the 
 
 For example, in Java:
 
-int score = 100;
-String name = "John";
+  int score = 100;
+  String name = "John";
 
 You cannot suddenly do this:
 
-score = "John"; //*JAVA SCREAMS INTERNALLY*
+  score = "John"; //*JAVA SCREAMS INTERNALLY*
 
 Java will complain because `score` is supposed to be an integer, not a String.
 
@@ -109,12 +126,12 @@ C and C# work in a similar way. The type system is built into the language itsel
 
 Python is different. Python is dynamically typed, like JavaScript. I can simply write:
 
-score = 100
-score = "John"
+  score = 100
+  score = "John"
 
 Python allows this. Modern Python does support optional type hints:
 
-score: int = 100
+  score: int = 100
 
 However, Python itself normally does not enforce that type while the program is running.
 
@@ -130,7 +147,7 @@ So, in a very simplified way:
 
 **C / C# / Java:** "We have been asking that for years."
 
-WOD?
+## WHAT IN THE "WOD"?
 
 When I read the Morea website, I stumbled across some jargon I had never heard before. It was not programmer, military, or even gamer jargon. It was CrossFit jargon: WOD. Then there was the word "athletic." Whoa, are they going to train us for the Software Engineering Olympics? Nice!
 
@@ -152,7 +169,7 @@ Maybe "athletic" is a fitting word after all. Instead of training muscles, we ar
 
 No Software Engineering Olympics yet, though. sad trumpet noises 
 
-My Use of Generative AI
+## My Use of Generative AI
 
 I mostly use generative AI to make sure my writing makes sense. I use it to check grammar, improve readability, and help me find sentences that might sound confusing.
 
@@ -167,5 +184,7 @@ The same idea applies to programming. Generative AI is not a replacement for kno
 AI can also make mistakes. It can misunderstand what I am asking, give me unnecessary code, or produce something that simply does not work. That is why blindly trusting it defeats the purpose of learning.
 
 Generative AI is not a replacement. It is a tool.
+
+<img src="..img/e10_typescript_reflection/meme.webp">
 
 And if the tool is bad, you can always replace it.

@@ -6,7 +6,7 @@ title: "Jamba Juice Typescript"
 date: 2026
 published: true
 labels:
-  - Javascript
+  - Typescript
   - Object-Oriented Programming
 summary: "A simple Jamba Juice inventory management I developed for ICS 314."
 ---

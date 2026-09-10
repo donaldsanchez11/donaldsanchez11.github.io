@@ -11,7 +11,6 @@ labels:
   - TypeScript
   - JavaSctipt
 ---
-<div class="essay-content">
 
 <figure>
   <img class="img-fluid"
@@ -100,11 +99,9 @@ However, that extra complexity has a purpose. It can catch mistakes earlier, esp
 
 So TypeScript makes JavaScript slightly more complicated while you're writing it, but it can make the overall program easier to understand, debug, and maintain.
 
-<div class="callout" markdown="2">
-In other words, JavaScript says: “Looks good. Send it.”
-
+In other words,
+JavaScript says: “Looks good. Send it.”
 TypeScript says: “HOLD UP, WAIT A MINUTE.”
-</div>
 
 ## TypeScript vs. Other Programming Languages
 
@@ -140,7 +137,7 @@ This is what makes TypeScript interesting. JavaScript started as a dynamically t
 
 So, in a very simplified way:
 
-<div class="callout" markdown="1">
+
 
 **JavaScript:** "Just give me the variable."
 
@@ -150,7 +147,7 @@ So, in a very simplified way:
 
 **C / C# / Java:** "We have been asking that for years."
 
-</div>
+
 
 ## WHAT IN THE "WOD"?
 

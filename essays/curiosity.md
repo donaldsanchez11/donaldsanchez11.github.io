@@ -12,7 +12,7 @@ labels:
 <img width="200px" src="../img/hmmcat.jpeg">
 
 # From Curiosity to Software Engineering
-
+<hr>
 ## The Beginnings...
 
 <img src="../img/e06_curiosity/old.gif">

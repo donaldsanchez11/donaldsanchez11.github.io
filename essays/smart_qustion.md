@@ -7,6 +7,7 @@ date: 2026-09-10
 published: true
 labels:
   - Smart
+  - Reflections
 ---
 
 # There Are No Stupid Questions... But There Are Not-Smart Questions

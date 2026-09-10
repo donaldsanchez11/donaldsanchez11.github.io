@@ -9,7 +9,7 @@ labels:
   - Engineering
   - Lore
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/hmmcat.jpeg">
+<img width="200px" src="../img/hmmcat.jpeg">
 
 # From Curiosity to Software Engineering
 
@@ -27,10 +27,10 @@ My creative interests also extend beyond programming. I enjoy digital and tradit
 
 <div style="display: flex; gap: 15px; justify-content: center;">
   <img src="../img/e06_curiosity/vxa.jpg"
-       style="width: 48%; height: auto;">
+       style="width: 28%; height: auto;">
 
   <img src="../img/e06_curiosity/flash.png"
-       style="width: 48%; height: auto;">
+       style="width: 28%; height: auto;">
 </div>
 
 

@@ -73,7 +73,7 @@ JavaScript may happily accept it until the program runs and produces something I
 
 With TypeScript, I can specify what kind of data the function accepts:
 
-```javascript
+```typescript
   function addScore(score: number) {
       return score + 10;
   }
@@ -81,7 +81,7 @@ With TypeScript, I can specify what kind of data the function accepts:
 
 Now if I try:
 
-```javascript
+```typescript
 addScore("John");
 ```
 
@@ -96,12 +96,11 @@ The technician is basically saying, “You told me this part is supposed to be a
 **yes**
 
 Instead of writing:
-
-```javascript
+```typescript
 let score = 100;
 ```
 I might write:
-```javascript
+```typescript
 let score: number = 100;
 ```
 There is more syntax to learn, and TypeScript can sometimes complain about code that JavaScript would happily run.
@@ -150,8 +149,8 @@ This is what makes TypeScript interesting. JavaScript started as a dynamically t
 
 So, in a very simplified way:
 
-<div class="callout">
-  
+<div class="callout" markdown="1">
+
 **JavaScript:** "Just give me the variable."
 
 **Python:** "Same."

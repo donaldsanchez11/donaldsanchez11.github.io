@@ -157,7 +157,7 @@ WOD means "Workout of the Day” for non-CrossFitters like me, it basically mean
 
 Oh boy, they are stressful, and they will probably become even more stressful when we have to do them as a group.
 
-There are some good things about this style of learning. The biggest benefit is that it trains you to work under pressure. You cannot spend forever trying to make your code perfect. You have to understand the problem, develop a solution, test it, and submit it before time runs out. We are also allowed to use provided resources and our old notes, or even generative AI such as chatGPT. The goal is not simply memorizing every piece of syntax.
+There are some good things about this style of learning. The biggest benefit is that it trains you to work under pressure. You cannot spend forever trying to make your code perfect. You have to understand the problem, develop a solution, test it, and submit it before time runs out. We are also allowed to use provided resources and our old notes, or even generative AI such as ChatGPT. The goal is not simply memorizing every piece of syntax.
 
 The bad part is that there is not much time to polish the code. Bugs and quality have to be checked while you are working. During one WOD, for example, I remembered to check whether humidity was greater than 100, but I forgot to check whether it was less than 0. Small logical mistakes like that are easier to miss when the clock is ticking.
 
@@ -175,5 +175,5 @@ No Software Engineering Olympics yet, though. *sad trumpet noises*
 
 <blockquote>
   <strong>AI Disclaimer:</strong>
-  AI was used for spelling and grammar corrections. The ideas and content are my own.
+  AI was used for spelling, grammar and formatting corrections. The ideas and content are my own.
 </blockquote>

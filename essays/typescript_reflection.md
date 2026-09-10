@@ -12,22 +12,24 @@ labels:
   - JavaSctipt
 ---
 
-<img class="img-fluid"
-     style="max-width: 600px;"
-     src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg">
-<br>
-<small>
-  Photo by
-  <a href="https://unsplash.com/@vladimir_d?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-    Volodymyr Dobrovolskyy
-  </a>
-  on
-  <a href="https://unsplash.com/photos/a-cat-sitting-in-front-of-a-computer-monitor-KrYbarbAx5s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-    Unsplash
-  </a>
-</small>
+<figure>
+  <img class="img-fluid"
+       style="max-width: 600px;"
+       src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg">
 
-<br>
+  <figcaption>
+    <small>
+      Photo by
+      <a href="https://unsplash.com/@vladimir_d?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Volodymyr Dobrovolskyy
+      </a>
+      on
+      <a href="https://unsplash.com/photos/a-cat-sitting-in-front-of-a-computer-monitor-KrYbarbAx5s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Unsplash
+      </a>
+    </small>
+  </figcaption>
+</figure>
 
 # TypeScript, Timed Coding, and a Little Bit of Panic
 

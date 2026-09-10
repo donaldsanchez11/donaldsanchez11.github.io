@@ -7,7 +7,6 @@ date: 2024
 published: true
 labels:
   - GDScript
-  - GitHub
   - Game Development
 summary: "A text-based, sandbox, simulation, 4x game as my personal hobby project. "
 ---

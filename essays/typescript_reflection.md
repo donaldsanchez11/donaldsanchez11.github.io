@@ -159,7 +159,7 @@ Overall, I think athletic software engineering can work for me. I would not call
 
 Maybe "athletic" is a fitting word after all. Instead of training muscles, we are training our programming skills through repeated practice.
 
-No Software Engineering Olympics yet, though. sad trumpet noises 
+No Software Engineering Olympics yet, though. *sad trumpet noises* 
 
 ## My Use of Generative AI
 

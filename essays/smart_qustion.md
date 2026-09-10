@@ -84,3 +84,8 @@ Notice the micro-questions are mostly W's questions that supports the main quest
 You do not need to know the answer before asking the question. If you already knew the answer, there would be no reason to ask. You just need to understand your problem well enough to ask a useful question.
 
 A smart question shows that you are not only looking for an answer; You are trying to understand the problem.
+
+<blockquote>
+  <strong>AI Disclaimer:</strong>
+  AI was used for spelling and grammar corrections. The ideas and content are my own.
+</blockquote>

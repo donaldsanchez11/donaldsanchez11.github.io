@@ -9,7 +9,7 @@ labels:
   - Reflections
   - WOD
   - TypeScript
-  - JavaSctipy
+  - JavaSctipt
 ---
 
 <img src="../img/e10_typescript_reflection/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg">
@@ -183,8 +183,6 @@ The same idea applies to programming. Generative AI is not a replacement for kno
 
 AI can also make mistakes. It can misunderstand what I am asking, give me unnecessary code, or produce something that simply does not work. That is why blindly trusting it defeats the purpose of learning.
 
-Generative AI is not a replacement. It is a tool.
+Generative AI is not a replacement. It is a tool. And if the tool is bad, you can always replace it.
 
-<img src="..img/e10_typescript_reflection/meme.webp">
-
-And if the tool is bad, you can always replace it.
+<img src="../img/e10_typescript_reflection/meme.webp">

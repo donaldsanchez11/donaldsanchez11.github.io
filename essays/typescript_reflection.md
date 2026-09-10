@@ -178,4 +178,4 @@ AI can also make mistakes. It can misunderstand what I am asking, give me unnece
 Generative AI is not a replacement. It is a tool. And if the tool is bad, you can always replace it.
 
 <img src="../img/e10_typescript_reflection/meme.webp">
-</div>
+

@@ -77,9 +77,7 @@ Now if I try:
 ```typescript
 addScore("John");
 ```
-TypeScript can warn me before I run the program. I gave the function a string when it expected a number. That is static typing.
-
-The technician is basically saying, “You told me this part is supposed to be a number. Why did you install a string here?”
+TypeScript can warn me before I run the program. I gave the function a string when it expected a number. That is static typing. The technician is basically saying, “You told me this part is supposed to be a number. Why did you install a string here?”
 
 ## Does TypeScript make JavaScript more complicated?
 
@@ -105,9 +103,7 @@ TypeScript says: “HOLD UP, WAIT A MINUTE.”
 
 ## TypeScript vs. Other Programming Languages
 
-TypeScript's static typing is not a completely new idea. Other programming languages have been doing something similar for a long time.
-
-Java, C, and C# are statically typed languages. When you create a variable, the program expects it to have a certain type.
+TypeScript's static typing is not a completely new idea. Other programming languages have been doing something similar for a long time. Java, C, and C# are statically typed languages. When you create a variable, the program expects it to have a certain type.
 
 For example, in Java:
 ```java
@@ -118,9 +114,7 @@ You cannot suddenly do this:
 ```java
 score = "John"; //*JAVA SCREAMS INTERNALLY*
 ```
-Java will complain because `score` is supposed to be an integer, not a String.
-
-C and C# work in a similar way. The type system is built into the language itself.
+Java will complain because `score` is supposed to be an integer, not a String. C and C# work in a similar way. The type system is built into the language itself.
 
 Python is different. Python is dynamically typed, like JavaScript. I can simply write:
 ```python
@@ -131,13 +125,9 @@ Python allows this. Modern Python does support optional type hints:
 ```python
   score: int = 100
 ```
-However, Python itself normally does not enforce that type while the program is running.
-
-This is what makes TypeScript interesting. JavaScript started as a dynamically typed language, and TypeScript adds a static type-checking system on top of it.
+However, Python itself normally does not enforce that type while the program is running. This is what makes TypeScript interesting. JavaScript started as a dynamically typed language, and TypeScript adds a static type-checking system on top of it.
 
 So, in a very simplified way:
-
-
 
 **JavaScript:** "Just give me the variable."
 
@@ -151,7 +141,7 @@ So, in a very simplified way:
 
 ## WHAT IN THE "WOD"?
 
-When I read the Morea website, I stumbled across some jargon I had never heard before. It was not programmer, military, or even gamer jargon. It was CrossFit jargon: WOD. Then there was the word "athletic." Whoa, are they going to train us for the Software Engineering Olympics? Nice!
+When I read the Morea website, I stumbled across some jargon I had never heard before. It was not programmer, military, or even gamer jargon. It was CrossFit jargon: WOD. Then there was the word "athletic." Whoa, are they going to train us for the Software Engineering Olympics? **Nice!**
 
 WOD means "Workout of the Day” for non-CrossFitters like me, it basically means a quiz. (If I were the instructor, I would probably call my quizzes a "Confidence Course.") These WODs are timed coding exercises that usually give us around 30 minutes to complete a problem.
 

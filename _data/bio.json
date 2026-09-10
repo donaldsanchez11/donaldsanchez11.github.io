@@ -15,13 +15,13 @@
     ]
   },
   "interests": [
-    { "name": "AI" },
     { "name": "Software Engineering" },
     { "name": "Cyber Security" },
     { "name": "Game Development" },
     { "name": "Digital Art" },
     { "name": "2D Graphics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics" },
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {
@@ -70,7 +70,7 @@
       "position": "19D Cavalry Scouts",
       "website": "",
       "startDate": "2017-07-25",
-      "endDate": "2028",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Drive HMMWV",
@@ -78,6 +78,8 @@
       ]
     }
   ],
+
+/*
   "volunteer": [
     {
       "organization": "",
@@ -111,6 +113,8 @@
       "summary": ""
     }
   ],
+ */
+  
   "references": [
     {
       "name": "Available upon request"

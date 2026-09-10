@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tictactoe-square.png
+image: img/jamba-square.png
 title: "Jamba Juice Typescript"
 date: 2026
 published: true

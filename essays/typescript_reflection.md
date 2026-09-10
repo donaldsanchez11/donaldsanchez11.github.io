@@ -58,25 +58,32 @@ JavaScript is willing to run the program and see what happens. TypeScript checks
 
 For example, imagine a JavaScript function expects a number:
 
-  function addScore(score) {
-      return score + 10;
-  }
+```javascript
+function addScore(score) {
+  return score + 10;
+}
+```
 
 Nothing stops me from accidentally doing this:
 
-  addScore("John");
-
+```javascript
+addScore("John");
+```
 JavaScript may happily accept it until the program runs and produces something I did not expect.
 
 With TypeScript, I can specify what kind of data the function accepts:
 
+```javascript
   function addScore(score: number) {
       return score + 10;
   }
+```
 
 Now if I try:
 
-  addScore("John");
+```javascript
+addScore("John");
+```
 
 TypeScript can warn me before I run the program. I gave the function a string when it expected a number. That is static typing.
 
@@ -90,25 +97,24 @@ The technician is basically saying, “You told me this part is supposed to be a
 
 Instead of writing:
 
+```javascript
 let score = 100;
-
+```
 I might write:
-
+```javascript
 let score: number = 100;
-
+```
 There is more syntax to learn, and TypeScript can sometimes complain about code that JavaScript would happily run.
 
 However, that extra complexity has a purpose. It can catch mistakes earlier, especially as a project grows.
 
 So TypeScript makes JavaScript slightly more complicated while you're writing it, but it can make the overall program easier to understand, debug, and maintain.
 
-In other words, JavaScript says:
+<div class="callout">
+In other words, JavaScript says: “Looks good. Send it.”
 
-“Looks good. Send it.”
-
-TypeScript says:
-
-“HOLD UP, WAIT A MINUTE.”
+TypeScript says: “HOLD UP, WAIT A MINUTE.”
+</div>
 
 ## TypeScript vs. Other Programming Languages
 
@@ -117,33 +123,35 @@ TypeScript's static typing is not a completely new idea. Other programming langu
 Java, C, and C# are statically typed languages. When you create a variable, the program expects it to have a certain type.
 
 For example, in Java:
-
-  int score = 100;
-  String name = "John";
-
+```java
+int score = 100;
+String name = "John";
+```
 You cannot suddenly do this:
-
-  score = "John"; //*JAVA SCREAMS INTERNALLY*
-
+```java
+score = "John"; //*JAVA SCREAMS INTERNALLY*
+```
 Java will complain because `score` is supposed to be an integer, not a String.
 
 C and C# work in a similar way. The type system is built into the language itself.
 
 Python is different. Python is dynamically typed, like JavaScript. I can simply write:
-
-  score = 100
-  score = "John"
-
+```python
+score = 100
+score = "John"
+```
 Python allows this. Modern Python does support optional type hints:
-
+```python
   score: int = 100
-
+```
 However, Python itself normally does not enforce that type while the program is running.
 
 This is what makes TypeScript interesting. JavaScript started as a dynamically typed language, and TypeScript adds a static type-checking system on top of it.
 
 So, in a very simplified way:
 
+<div class="callout">
+  
 **JavaScript:** "Just give me the variable."
 
 **Python:** "Same."
@@ -151,6 +159,8 @@ So, in a very simplified way:
 **TypeScript:** "What TYPE is the variable?"
 
 **C / C# / Java:** "We have been asking that for years."
+
+</div>
 
 ## WHAT IN THE "WOD"?
 

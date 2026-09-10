@@ -7,7 +7,6 @@ date: 2023
 published: true
 labels:
   - Java
-  - GitHub
 summary: "A TicTacToe Game I developed for ICS 211 in Leeward Community College."
 ---
 This simple TicTacToe game was one of my projects back in ICS 211 at Leeward Community College. I developed it through time, trial and error, and a lot of perseverance, without the help of AI. By the time I finished the project, it had grown to around 1,000 lines of Java code.

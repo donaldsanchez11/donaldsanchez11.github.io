@@ -15,6 +15,8 @@ labels:
 
 ## The Beginnings...
 
+<img src="../img/e06_curiosity/old.gif">
+
 My interest in software engineering did not suddenly appear when I entered college. I have been interested in programming and creating things with computers since I was young.
 
 I first experimented with programming when I was around eight years old using Flash ActionScript. I did not really understand what I was doing yet. Most of the time, I was copying and pasting code from online tutorials and seeing what happened. Still, it introduced me to the idea that I could tell a computer what to do by writing code.
@@ -22,6 +24,14 @@ I first experimented with programming when I was around eight years old using Fl
 Later, I became interested in RPG Maker. It gave me another way to combine programming with something else I enjoyed: creating games. Instead of only playing games, I could experiment with making my own systems, characters, and worlds.
 
 My creative interests also extend beyond programming. I enjoy digital and traditional drawing, which gives me another way to create things. Software engineering and art might seem like completely different fields, but I think they share an important idea: you start with something that does not exist yet and slowly build it.
+
+<div style="display: flex; gap: 15px; justify-content: center;">
+  <img src="../img/e06_curiosity/vxa.jpg"
+       style="width: 48%; height: auto;">
+
+  <img src="../img/e06_curiosity/flash.png"
+       style="width: 48%; height: auto;">
+</div>
 
 
 ## The Future
@@ -36,17 +46,15 @@ Most importantly, I want to continue developing my problem-solving skills. Progr
 I started programming as a kid who copied ActionScript from tutorials just to see what would happen. Now, I am learning how software is actually designed and developed. In the future, I hope to become someone who can take an idea, work with others to solve the problems along the way, and turn that idea into software that actually works.
 
 <figcaption>
-  <img class="img-fluid"
-       style="max-width: 600px;"
-       src="../img/e06_curiosity/ai_developer.png">
+  <img width="300px" class="img-fluid" src="../img/e06_curiosity/ai_developer.png">
   <small>
     AI-generated image created with ChatGPT using the prompt:
     "Generate me an image of me being a software developer."
   </small>
 </figcaption>
 
-
+<hr>
 <blockquote>
   <strong>AI Disclaimer:</strong>
-  AI was used for spelling corrections, grammar corrections and image generation. The ideas and content are my own.
+  AI was used for spelling corrections, grammar corrections, formatting and image generation. The ideas and content are my own.
 </blockquote>

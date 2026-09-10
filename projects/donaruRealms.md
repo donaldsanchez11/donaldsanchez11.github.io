@@ -56,4 +56,5 @@ Donaru Realms is built using Godot 4 and primarily programmed in GDScript. Since
 
 The project has grown over time from a relatively simple character-management game into a much larger simulation with many systems interacting with each other. This makes Donaru Realms both a game project and a way for me to practice designing and maintaining a growing software project.
 
+**Link:** Will be provided in the future.
 

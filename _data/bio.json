@@ -114,6 +114,20 @@
     }
   ],
  */
+  "languages": [
+  {
+    "language": "Tagalog",
+    "fluency": "Native / Fluent"
+  },
+  {
+    "language": "English",
+    "fluency": "Proficient"
+  },
+  {
+    "language": "Japanese",
+    "fluency": "Beginner"
+  }
+],
   
   "references": [
     {

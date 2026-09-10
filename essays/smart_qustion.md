@@ -37,6 +37,7 @@ For me, the quality of an answer often depends on the quality of the question. A
 
 ## Smart Questions
 
+
 <img src="../img/e11_smart_q/Math_Lady_meme.jpg">
 
 
@@ -53,6 +54,7 @@ You could ask:
 The second question gives a clear problem to investigate. It narrows down the issue and makes it easier for someone to give a useful answer.
 
 ## "Not Smart" Questions
+
 
 <img src="../img/e11_smart_q/patrick.gif">
 

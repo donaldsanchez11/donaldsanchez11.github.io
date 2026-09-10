@@ -171,21 +171,9 @@ Maybe "athletic" is a fitting word after all. Instead of training muscles, we ar
 
 No Software Engineering Olympics yet, though. *sad trumpet noises* 
 
-## My Use of Generative AI
-
-I mostly use generative AI to make sure my writing makes sense. I use it to check grammar, improve readability, and help me find sentences that might sound confusing.
-
-**Boo!**
-
-Hey, not nice. English is my second language.
-
-I do not simply copy and paste the assignment instructions into a prompt and ask AI to do everything for me. I still come up with the ideas, examples, opinions, and experiences in my writing. I use AI more like a writing assistant that helps me communicate those ideas more clearly.
-
-The same idea applies to programming. Generative AI is not a replacement for knowing how to code. It is a tool, and whoever holds the tool should know how to use it. If AI gives me code, I should still understand what that code does, test it, and recognize when something is wrong.
-
-AI can also make mistakes. It can misunderstand what I am asking, give me unnecessary code, or produce something that simply does not work. That is why blindly trusting it defeats the purpose of learning.
-
-Generative AI is not a replacement. It is a tool. And if the tool is bad, you can always replace it.
-
 <img src="../img/e10_typescript_reflection/meme.webp">
 
+<blockquote>
+  <strong>AI Disclaimer:</strong>
+  AI was used for spelling and grammar corrections. The ideas and content are my own.
+</blockquote>

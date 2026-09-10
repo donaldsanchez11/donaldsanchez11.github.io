@@ -11,6 +11,8 @@ labels:
 summary: "A simple Jamba Juice inventory management I developed for ICS 314."
 ---
 
+<img class="img-fluid" src="../img/jamba/jamba_banner.png">
+
 This project is a simple Jamba Juice ordering and inventory management system developed for ICS 314 using TypeScript. It uses object-oriented programming to model menu items, customer orders, drinks, ingredient inventory, and store operations.
 
 The system allows menu items to contain their own ingredients, prices, and calorie information for different drink sizes. Customers can create orders with multiple drinks, while the store checks its available ingredients before deciding which drinks can be made.

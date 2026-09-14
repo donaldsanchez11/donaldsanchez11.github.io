@@ -17,7 +17,7 @@ labels:
 
 <img src="../img/e06_curiosity/old.gif">
 
-My interest in software engineering did not suddenly appear when I entered college. I have been interested in programming and creating things with computers since I was young.
+My interest in software engineering did not suddenly appear when I entered college. I have been interested in programming and creating things with computers since I was young. 
 
 I first experimented with programming when I was around eight years old using Flash ActionScript. I did not really understand what I was doing yet. Most of the time, I was copying and pasting code from online tutorials and seeing what happened. Still, it introduced me to the idea that I could tell a computer what to do by writing code.
 

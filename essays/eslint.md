@@ -79,7 +79,7 @@ I also like using VSCode as my main IDE. It may sometimes feel slower than simpl
 Overall, I agree that coding standards are one of the most useful software engineering techniques for improving code quality. They do not automatically make someone a good programmer, and following every rule can sometimes be annoying. However, they encourage habits that make code easier to read, debug, maintain, and share with other developers. My experience with ESLint has been a mixture of frustration and learning, but I think that frustration has a purpose. With enough repetition, I hope I will eventually write clean code naturally instead of having ESLint yell at me every five seconds.
 
 
-<img src="../img/eslint/disorganized.jpg" alt = "disorganized meme" height = 50%>
+<img src="../img/eslint/disorganized.jpg" alt = "disorganized meme" style="max-width: 600px;">
 
 
 <blockquote>

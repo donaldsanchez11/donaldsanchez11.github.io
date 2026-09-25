@@ -15,6 +15,27 @@ labels:
 # Order and Chaos of being a Programmer
 
 
+<figure>
+  <img class="img-fluid"
+       style="max-width: 600px;"
+       src="../img/eslint/wonderlane-6jA6eVsRJ6Q-unsplash.jpg"
+       alt = "disorganized desk">
+  <figcaption>
+    <small>
+      Photo by
+      <a href="https://unsplash.com/@wonderlane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Wonderlane
+      </a>
+      on
+      <a href="https://unsplash.com/photos/office-table-with-pile-of-papers-6jA6eVsRJ6Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Unsplash
+      </a>
+    </small>
+  </figcaption>
+  </figure>
+
+<hr>
+
 ## Coding Standards: Why coding needs law and order, too.
 
 Coding standards are important because they make code readable, clean, and easier to maintain. I also believe that coding standards can help someone learn a programming language. When I first started programming, my main goal was simply to make the code work. If the program ran without errors, I considered that a success. However, working code is not always good code. Coding standards have taught me that how the code is written also matters.
@@ -45,6 +66,8 @@ Both versions accomplish basically the same task, but the second version is much
 
 ## ESLint, the order keeper.
 
+<img src="../img/eslint/army_march.gif" alt = "military marching orderly">
+
 After the week of using ESLint, I have found it both useful and annoying. ESLint sometimes feels like TypeScript with extra steps. Setting it up takes time, and some of its rules can feel strange when you first encounter them. For example, I had to get used to syntax such as `{ type }` instead of `{type}`. Other rules can feel extremely strict, such as complaining because I used double quotes instead of single quotes. Sometimes it feels like ESLint is saying, "Your program works, but I don't like how you typed it."
 
 Despite that frustration, I can see why ESLint is useful. Repetition helps build good programming habits. If ESLint keeps reminding me to format something correctly, eventually I will start writing it correctly without thinking about it. The goal is not necessarily to create perfect code, because perfect code probably does not exist. Instead, coding standards help create code that is consistent and understandable.
@@ -54,3 +77,12 @@ Despite that frustration, I can see why ESLint is useful. Repetition helps build
 I also like using VSCode as my main IDE. It may sometimes feel slower than simpler editors, but it is easy to understand and highly customizable through extensions. ESLint integration is especially useful because VSCode can point out problems while I am writing code instead of waiting until later. This gives me immediate feedback and helps me learn what I did wrong.
 
 Overall, I agree that coding standards are one of the most useful software engineering techniques for improving code quality. They do not automatically make someone a good programmer, and following every rule can sometimes be annoying. However, they encourage habits that make code easier to read, debug, maintain, and share with other developers. My experience with ESLint has been a mixture of frustration and learning, but I think that frustration has a purpose. With enough repetition, I hope I will eventually write clean code naturally instead of having ESLint yell at me every five seconds.
+
+
+<img src="../img/eslint/disorganized.jpg" alt = "disorganized meme">
+
+
+<blockquote>
+  <strong>AI Disclaimer:</strong>
+  AI was used for spelling and grammar corrections. The ideas and content are my own.
+</blockquote>

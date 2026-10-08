@@ -45,7 +45,7 @@ You have to spend some time learning Bootstrap classes, but in return, you can w
 
 If you want more control over your website and want to be more specific with your design, raw HTML and CSS might be better. Bootstrap is useful for saving time, but sometimes its default styles can get in the way.
 
-**HTML without Bootstrap 5**
+**HTML without Bootstrap 5**<br>
 `index.html:`
 ```
 <!DOCTYPE html>
@@ -106,7 +106,7 @@ body {
   cursor: pointer;
 }
 ```
-**HTML with Bootstrap 5**
+**HTML with Bootstrap 5**<br>
 `index.html`
 ```
 <!DOCTYPE html>

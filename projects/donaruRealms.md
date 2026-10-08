@@ -4,7 +4,7 @@ type: project
 image: img/gif/urara_headpat.gif
 title: "Donaru Realms"
 date: 2024
-published: true
+published: false
 labels:
   - GDScript
   - Game Development

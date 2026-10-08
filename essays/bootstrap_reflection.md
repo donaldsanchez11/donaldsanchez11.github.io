@@ -35,11 +35,7 @@ labels:
 
 ## Why bother to use something like Bootstrap 5?
 
-If you don't want to write a bunch of CSS code, Bootstrap 5 is useful. It provides ready-made styles and components, so you don't have to build everything from scratch.
-
-## What does one get in return for the investment of time and frustration?
-
-You have to spend some time learning Bootstrap classes, but in return, you can write fewer lines of CSS and keep your code cleaner. It can also make building websites faster once you understand how it works.
+If you don't want to write a bunch of CSS code, Bootstrap 5 is useful. It provides ready-made styles and components, so you don't have to build everything from scratch. You have to spend some time learning Bootstrap classes, but in return, you can write fewer lines of CSS and keep your code cleaner. It can also make building websites faster once you understand how it works.
 
 ## Why not just use raw HTML and CSS?
 

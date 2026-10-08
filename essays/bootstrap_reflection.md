@@ -45,7 +45,8 @@ You have to spend some time learning Bootstrap classes, but in return, you can w
 
 If you want more control over your website and want to be more specific with your design, raw HTML and CSS might be better. Bootstrap is useful for saving time, but sometimes its default styles can get in the way.
 
-### HTML without Bootstrap 5
+**HTML without Bootstrap 5**
+`index.html:`
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -71,7 +72,7 @@ If you want more control over your website and want to be more specific with you
 </body>
 </html>
 ```
-
+`style.css`
 ```
 body {
   margin: 0;
@@ -105,8 +106,8 @@ body {
   cursor: pointer;
 }
 ```
-### HTML with Bootstrap 5
-
+**HTML with Bootstrap 5**
+`index.html`
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -135,8 +136,8 @@ body {
 </body>
 </html>
 ```
-
-```CSS
+`style.css`
+```
 /*NOTHING*/
 ```
 ## Are there software engineering benefits of UI frameworks?
